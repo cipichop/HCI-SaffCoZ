@@ -5,6 +5,16 @@
     background-color: rgb(233, 246, 247);
 }
 
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.noto-sans-jp {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 div {
     display: flex;
     justify-content: left;
@@ -64,7 +74,7 @@ ul {
     height: 80px;
 }
 
-.navbar-box {
+.navbar-text {
     background-color:rgb(255, 255, 255);
     padding: 20px;
 }
