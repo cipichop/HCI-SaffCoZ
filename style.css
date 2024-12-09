@@ -33,7 +33,7 @@ ul {
     margin: 0 50px;
 }
 
-@media (max-width: 770px) {
+@media (max-width: 768px) {
     h1 {
         font-size: 28px
     }
@@ -221,7 +221,7 @@ ul {
     margin: 30px 80px;
 }
 
-@media (max-width: 770px) {
+@media (max-width: 768px) {
     .navbar-left {
         padding: 10px;
     }
